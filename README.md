@@ -1,1 +1,1 @@
-#form_inputorder.io
+https://atsirishop.github.io/form_inputorder.io/
